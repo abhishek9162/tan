@@ -1,0 +1,59 @@
+body{
+    font-family: 'Rubik', sans-serif;
+    background-color: rgb(5, 5, 53);
+    font-weight: 100;
+}
+
+img{
+    margin: auto;
+    height: 300px;
+    width: 300;
+    float: right;
+}
+
+.image{
+    float: right;
+    margin: 1px 100px auto auto;
+}
+.text{
+    margin: 100px 100px auto 100px;;
+    background-color: rgb(39, 33, 114);
+    color: white;
+    border-style: solid;
+    border-color: rgb(39, 33, 114);
+    border-width: 0px 0px 104px 0px;
+}
+h2{
+    text-align: center;
+}
+span{
+    color: violet;
+}
+#a{
+    position: absolute;
+    margin-left: 80px;
+    left: 116px;
+    line-height: 0.3;
+}
+#b{
+    position: absolute;
+    margin-left: 210px;
+    left: 114px;
+    line-height: 0.3;
+}
+#c{
+    position: absolute;
+    margin-left: 340px;
+    left: 113px;
+    line-height: 0.3;
+}
+
+#content1{
+    height: 40px;
+    padding-left: 90px;
+    padding-right: 420px;
+    margin-bottom: 80px;
+}
+.upper-text{
+    text-align: center;
+}
